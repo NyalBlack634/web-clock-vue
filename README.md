@@ -1,4 +1,7 @@
 # web-clock
+以下のサイトの時計をVue.jsの勉強も兼ねて作る
+時計としてnotionにも埋め込みたい
+https://web-dev.tech/front-end/javascript/digital-clock/
 
 ## Project setup
 ```
